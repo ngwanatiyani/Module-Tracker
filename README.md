@@ -1,4 +1,4 @@
-# CPUT Module Tracker 📚✨
+## CPUT Module Tracker 📚✨
 
 Welcome to the CPUT Module Tracker project! This standalone Java application helps CPUT Application Development students track their module performance throughout their academic journey.
 
