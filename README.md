@@ -70,14 +70,7 @@ Enhances development with features like automatic restarts and live reload.
 
 ## Summary
 
-This structure and the contents of each file facilitate the effective building of the Student Progress Tracking Web Application, covering configuration, controllers, models, repositories, services, templates, and testing.
-
-## How to Run
-
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run the application using `mvn spring-boot:run`.
-4. Access the application at `http://localhost:8080`.
+This structure and the contents of each file facilitate the effective building of **Module Tracker** Web Application, covering configuration, controllers, models, repositories, services, templates, and testing.
 
 ## Key Features
 
@@ -90,3 +83,11 @@ This structure and the contents of each file facilitate the effective building o
 - **Projection Tools:** Predict future performance.
 - **Intervention Features:** Support struggling students.
 - **Local Data Storage:** Securely store user data.
+
+## How to Run
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the application using `mvn spring-boot:run`.
+4. Access the application at `http://localhost:8080`.
+
